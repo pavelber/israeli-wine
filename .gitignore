@@ -1,0 +1,5 @@
+*.zip
+scripts/
+external/
+__pycache__/
+*.pyc
