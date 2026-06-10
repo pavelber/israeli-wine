@@ -1,0 +1,2838 @@
+﻿{
+    "fetched_at":  "2026-06-10",
+    "count":  354,
+    "wineries":  [
+                     {
+                         "name":  "יקב 1848",
+                         "url":  "https://grape-man.com/יקב-1848.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/1848-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב Five Stones",
+                         "url":  "https://grape-man.com/יקב-five-stones.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/five-stones-logo.1ff7100b1a3966d255d2720291eafb97.png",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אבוהב",
+                         "url":  "https://grape-man.com/יקב-אבוהב.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/abouhav-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אבידן",
+                         "url":  "https://grape-man.com/יקב-אבידן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/avidan-logo.85b354fa415891d89eb3035760ec257b.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אבנר",
+                         "url":  "https://grape-man.com/יקב-אבנר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/avner-logo-new-03-2022.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אגדה",
+                         "url":  "https://grape-man.com/יקב-אגדה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אגמון",
+                         "url":  "https://grape-man.com/יקב-אגמון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/agmon-logo.59daac7dc3151c6066f90e4e80fcb779.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אדיר",
+                         "url":  "https://grape-man.com/יקב-אדיר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/adir-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אדרא",
+                         "url":  "https://grape-man.com/יקב-אדרא.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/adra-winery-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אובלס",
+                         "url":  "https://grape-man.com/יקב-אובלס.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/oblass-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אולו",
+                         "url":  "https://grape-man.com/יקב-אולו.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ulu-winery-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אור הגנוז",
+                         "url":  "https://grape-man.com/אור-הגנוז.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/or-haganuz-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אורטל",
+                         "url":  "https://grape-man.com/יקב-אורטל.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ortal-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אוריאל",
+                         "url":  "https://grape-man.com/יקב-אוריאל.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/uriel-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אחת",
+                         "url":  "https://grape-man.com/יקב-אחת.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ahat-logo.85b354fa415891d89eb3035760ec257b.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אייל",
+                         "url":  "https://grape-man.com/אייל.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/eyal-logo.7fc92e368c8a960f4f59f13e072348e4.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אכזיב",
+                         "url":  "https://grape-man.com/יקב-אכזיב.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/achziv-logo.85b354fa415891d89eb3035760ec257b.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אלבר",
+                         "url":  "https://grape-man.com/יקב-אלבר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/alber-winery-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אלון",
+                         "url":  "https://grape-man.com/יקב-אלון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/alon-logo.f28501f880661e0a9c111a4774c8b987.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אלונה",
+                         "url":  "https://grape-man.com/יקב-אלונה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/alona-logo-new2017.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אליגוטה",
+                         "url":  "https://grape-man.com/יקב-אליגוטה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/aligote-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אלכסנדר",
+                         "url":  "https://grape-man.com/יקב-אלכסנדר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/alexander-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אמפורה",
+                         "url":  "https://grape-man.com/יקב-אמפורה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/amphorae-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אנדרדוג",
+                         "url":  "https://grape-man.com/יקב-אנדרדוג.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/underdog-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אסיף - לא פעיל",
+                         "url":  "https://grape-man.com/יקב-אסיף-לא-פעיל.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Negev",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אסף",
+                         "url":  "https://grape-man.com/יקב-אסף.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/assaf-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אפק",
+                         "url":  "https://grape-man.com/יקב-אפק.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Unknown",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אפריון",
+                         "url":  "https://grape-man.com/יקב-אפריון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/apiryon-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ארגוב",
+                         "url":  "https://grape-man.com/יקב-ארגוב.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/argov-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ארזה",
+                         "url":  "https://grape-man.com/יקב-ארזה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/arza-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אריאל ביהודה",
+                         "url":  "https://grape-man.com/יקב-אריאל-ביהודה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ariel-byehuda-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ארץ",
+                         "url":  "https://grape-man.com/יקב-ארץ.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/eretz-winery-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב אשקר",
+                         "url":  "https://grape-man.com/יקב-אשקר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ashkar-logo.2f270156beb54082e89fb844653196f8.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בהט",
+                         "url":  "https://grape-man.com/יקב-בהט.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/bahat-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בוסתן",
+                         "url":  "https://grape-man.com/יקב-בוסתן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/bustan-logo.ca666ca3ff15f27cd49485deacea9987.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בוסתן המשושים",
+                         "url":  "https://grape-man.com/יקב-בוסתן-המשושים.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בזלת הגולן",
+                         "url":  "https://grape-man.com/יקב-בזלת-הגולן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/bazelet-hagolan-logo.28fede524488c46e572608d2db90e237.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בזק",
+                         "url":  "https://grape-man.com/יקב-בזק.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/bazak-winery-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ביטון",
+                         "url":  "https://grape-man.com/יקב-ביטון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/biton-logo.85b354fa415891d89eb3035760ec257b.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ביריה",
+                         "url":  "https://grape-man.com/יקב-ביריה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בית אל",
+                         "url":  "https://grape-man.com/יקב-בית-אל.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/beit-el-logo-new-03-2022.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בן דוד",
+                         "url":  "https://grape-man.com/יקב-בן-דוד.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ben-david-logo-new2024.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בן זמרה",
+                         "url":  "https://grape-man.com/יקב-בן-זמרה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ben-zimra-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בן חנה",
+                         "url":  "https://grape-man.com/יקב-בן-חנה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ben-hanna-logo.85b354fa415891d89eb3035760ec257b.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בן נון",
+                         "url":  "https://grape-man.com/יקב-בן-נון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/bin-nun-logo.0ed48b5649eaa30b2c4ed365c4b065db.jpg",
+                         "region":  "Unknown",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בן עמי",
+                         "url":  "https://grape-man.com/יקב-בן-עמי.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ben-ami-logo.5a12f4505c32c8a7683d58fea64d9eb8.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בן שושן",
+                         "url":  "https://grape-man.com/יקב-בן-שושן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ben-shoshan-logo.85b354fa415891d89eb3035760ec257b.jpg",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בן-חיים",
+                         "url":  "https://grape-man.com/יקב-בן-חיים.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ben-haim-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בני ברוך",
+                         "url":  "https://grape-man.com/יקב-בני-ברוך.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/bnei-baruch-logo.64600f493a41c2b18029d8a6728f74b7.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בנימינה",
+                         "url":  "https://grape-man.com/יקב-בנימינה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/binyamina-logo-new-2020.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בקוש",
+                         "url":  "https://grape-man.com/יקב-בקוש.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/backoushe-winery-logo.8993acbc0ebed75ddf2738b69ec1e50a.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בר - לא פעיל",
+                         "url":  "https://grape-man.com/יקב-בר-לא-פעיל.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בר בכפר",
+                         "url":  "https://grape-man.com/יקב-בר-בכפר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/bar-bakfar-logo.f144023deb9187ed848a9d3d0960083c.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בר-מאור",
+                         "url":  "https://grape-man.com/יקב-בר-מאור.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/bar-maor-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ברניקי",
+                         "url":  "https://grape-man.com/יקב-ברניקי.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/berenice-logo-new-2021.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ברעם",
+                         "url":  "https://grape-man.com/יקב-ברעם.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/baram-logo.87d428435ec7e4e336012b75c9176420.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ברקאי",
+                         "url":  "https://grape-man.com/יקב-ברקאי.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ברקן",
+                         "url":  "https://grape-man.com/יקב-ברקן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/barkan-logo-new-march2017.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בשן - לא פעיל",
+                         "url":  "https://grape-man.com/יקב-בשן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/bashanlogo.b4d926946cfec794c648f1c691728f78.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב בת שלמה",
+                         "url":  "https://grape-man.com/יקב-בת-שלמה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/bat-shlomo-logo.8993acbc0ebed75ddf2738b69ec1e50a.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ג\u0027סקלה",
+                         "url":  "https://grape-man.com/יקב-גסקלה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/jascala-logo.d4d4012f2428bed59b03bbc0e5d6b5fd.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גבעון",
+                         "url":  "https://grape-man.com/יקב-גבעון.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גבעות",
+                         "url":  "https://grape-man.com/יקב-גבעות.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/gvaot-logo.c86c27660fd1629d56fe247af69a2454.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גבעתי",
+                         "url":  "https://grape-man.com/יקב-גבעתי.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גד",
+                         "url":  "https://grape-man.com/יקב-גד.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גוברין",
+                         "url":  "https://grape-man.com/יקב-גוברין.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גונן",
+                         "url":  "https://grape-man.com/יקב-גונן.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גוסטבו אנד ג\u0027ו",
+                         "url":  "https://grape-man.com/יקב-גוסטבו-אנד-גו.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גורן",
+                         "url":  "https://grape-man.com/יקב-גורן.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גוש עציון",
+                         "url":  "https://grape-man.com/יקב-גוש-עציון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/gush-etzion-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גיא אוני",
+                         "url":  "https://grape-man.com/יקב-גיא-אוני.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/guy-auni-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גיזו",
+                         "url":  "https://grape-man.com/יקב-גיזו.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/gizo-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גינתון",
+                         "url":  "https://grape-man.com/יקב-גינתון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ginaton-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גלאי",
+                         "url":  "https://grape-man.com/יקב-גלאי.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/galai-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גליל מערבי",
+                         "url":  "https://grape-man.com/יקב-גליל-מערבי.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גלילאו",
+                         "url":  "https://grape-man.com/יקב-גלילאו.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/galileo-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב געתון - שיכר הכפר",
+                         "url":  "https://grape-man.com/יקב-געתון-שיכר-הכפר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/gaaton-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גפן הזהב",
+                         "url":  "https://grape-man.com/יקב-גפן-הזהב.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גרוס",
+                         "url":  "https://grape-man.com/יקב-גרוס.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Unknown",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גרינברג",
+                         "url":  "https://grape-man.com/יקב-גרינברג.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גשר דמיה",
+                         "url":  "https://grape-man.com/יקב-גשר-דמיה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גת שומרון",
+                         "url":  "https://grape-man.com/יקב-גת-שומרון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/gat-shomron-logo-white.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב גתו",
+                         "url":  "https://grape-man.com/יקב-גתו.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/gito-winery-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב דדה",
+                         "url":  "https://grape-man.com/יקב-דדה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/dadah-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב דוכתא",
+                         "url":  "https://grape-man.com/יקב-דוכתא.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/dukhta-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב דומיין ונטורה",
+                         "url":  "https://grape-man.com/יקב-דומיין-ונטורה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/domaine-ventura-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב דומיין סרור",
+                         "url":  "https://grape-man.com/יקב-דומיין-סרור.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/domaine-seror-logo.55f5acb9cccb4b9f8dd22f6a9efebac9.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב דיפון",
+                         "url":  "https://grape-man.com/יקב-דיפון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/dipon-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב דליה",
+                         "url":  "https://grape-man.com/יקב-דליה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב דלתא",
+                         "url":  "https://grape-man.com/יקב-דלתא.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/delta-winery-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב דלתון",
+                         "url":  "https://grape-man.com/יקב-דלתון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/dalton-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב דני",
+                         "url":  "https://grape-man.com/יקב-דני.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/dani-winery-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב דרור",
+                         "url":  "https://grape-man.com/יקב-דרור.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/dror-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב דרימיה",
+                         "url":  "https://grape-man.com/יקב-דרימיה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/drimia-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הגבעה",
+                         "url":  "https://grape-man.com/יקב-הגבעה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הדר",
+                         "url":  "https://grape-man.com/יקב-הדר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/hadar-winery-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב היוצר",
+                         "url":  "https://grape-man.com/יקב-היוצר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/hayotzer-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הים האדום",
+                         "url":  "https://grape-man.com/יקב-הים-האדום.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/red-sea-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הכורמים",
+                         "url":  "https://grape-man.com/יקב-הכורמים.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/hacormim-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הכרם",
+                         "url":  "https://grape-man.com/יקב-הכרם.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב המלך שלמה",
+                         "url":  "https://grape-man.com/יקב-המלך-שלמה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב המסרק",
+                         "url":  "https://grape-man.com/יקב-המסרק.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/hamasrek-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב המערה",
+                         "url":  "https://grape-man.com/יקב-המערה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/cave-logo-new-02-2024.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הנס שטרנבך",
+                         "url":  "https://grape-man.com/יקב-הנס-שטרנבך.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/hans-shternbach-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הצבי",
+                         "url":  "https://grape-man.com/יקב-הצבי.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/hatzvi-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הר אדר",
+                         "url":  "https://grape-man.com/יקב-הר-אדר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/har-adar-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הר אודם",
+                         "url":  "https://grape-man.com/יקב-הר-אודם.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/odem-mountain-logo-new-may-2020.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הר ברכה",
+                         "url":  "https://grape-man.com/יקב-הר-ברכה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/har-bracha-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הר גילון",
+                         "url":  "https://grape-man.com/יקב-הר-גילון.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הר נוי",
+                         "url":  "https://grape-man.com/יקב-הר-נוי.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הרא׳׳ה",
+                         "url":  "https://grape-man.com/יקב-הראה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/haroe-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הרי גליל",
+                         "url":  "https://grape-man.com/יקב-הרי-גליל.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/galil-mountain-logo-new2017.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הרי ירושלים",
+                         "url":  "https://grape-man.com/יקב-הרי-ירושלים.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/jerusalem-mountains-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הרצברג",
+                         "url":  "https://grape-man.com/יקב-הרצברג.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/herzberg-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב הררי קדם",
+                         "url":  "https://grape-man.com/יקב-הררי-קדם.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב השיכר",
+                         "url":  "https://grape-man.com/יקב-השיכר.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב וורטמן",
+                         "url":  "https://grape-man.com/יקב-וורטמן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/vortman-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ויינר",
+                         "url":  "https://grape-man.com/יקב-ויינר.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב וילה וילהלמה",
+                         "url":  "https://grape-man.com/יקב-וילה-וילהלמה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/villa-wilhelma-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ויצמן",
+                         "url":  "https://grape-man.com/יקב-ויצמן.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ויתקין",
+                         "url":  "https://grape-man.com/יקב-ויתקין.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/vitkin-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ונחוצקר",
+                         "url":  "https://grape-man.com/יקב-ונחוצקר.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב זאוברמן",
+                         "url":  "https://grape-man.com/יקב-זאוברמן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/zauberman-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב זאזא",
+                         "url":  "https://grape-man.com/יקב-זאזא.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/zaza-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב זוהר",
+                         "url":  "https://grape-man.com/יקב-זוהר.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב זימנבודה",
+                         "url":  "https://grape-man.com/יקב-זימנבודה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב זמורה",
+                         "url":  "https://grape-man.com/יקב-זמורה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב חבל יהודה",
+                         "url":  "https://grape-man.com/יקב-חבל-יהודה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/chevel-yehuda-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב חברון",
+                         "url":  "https://grape-man.com/יקב-חברון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/hebron-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב חוטם הכרמל",
+                         "url":  "https://grape-man.com/יקב-חוטם-הכרמל.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב חיטים",
+                         "url":  "https://grape-man.com/יקב-חיטים.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/chitim-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב חרשים",
+                         "url":  "https://grape-man.com/יקב-חרשים.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/harashim-logo-winery%20.9c28d196c64cec406ea0fbb0d40e74f7.jpg",
+                         "region":  "Unknown",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב טוליפ",
+                         "url":  "https://grape-man.com/יקב-טוליפ.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tulip-logo-new2018.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב טורא",
+                         "url":  "https://grape-man.com/יקב-טורא.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tura-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב טיסונה",
+                         "url":  "https://grape-man.com/יקב-טיסונה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב טפרברג",
+                         "url":  "https://grape-man.com/יקב-טפרברג-1870.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/teperberg-logo-new2024.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב טרה אומה",
+                         "url":  "https://grape-man.com/יקב-טרה-אומה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/terra-uma-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב טרה נובה",
+                         "url":  "https://grape-man.com/יקב-טרה-נובה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/terra-nova-logo.b4608de411780fdba2c5b3cdecec131c.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב טריו",
+                         "url":  "https://grape-man.com/יקב-טריו.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/trio-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב יהודה",
+                         "url":  "https://grape-man.com/יקב-יהודה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/yehuda-logo-small.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב יטאח - לא פעיל",
+                         "url":  "https://grape-man.com/יקב-יטאח.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב יעקב אוריה",
+                         "url":  "https://grape-man.com/יקב-יעקב-אוריה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב יערים",
+                         "url":  "https://grape-man.com/יקב-יערים.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב יפו",
+                         "url":  "https://grape-man.com/יקב-יפו.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/yaffo-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב יפתחאל",
+                         "url":  "https://grape-man.com/יקב-יפתחאל.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ירושלים",
+                         "url":  "https://grape-man.com/יקב-ירושלים.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/jerusalem-logo-new-jone2023.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ירושלמי",
+                         "url":  "https://grape-man.com/יקב-ירושלמי.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ישפה",
+                         "url":  "https://grape-man.com/יקב-ישפה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/yashfe-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב יתיר",
+                         "url":  "https://grape-man.com/יקב-יתיר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/yatir-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Negev",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כביר",
+                         "url":  "https://grape-man.com/יקב-כביר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/kabir-winery-logo-new-03-2022.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כהנוב",
+                         "url":  "https://grape-man.com/יקב-כהנוב.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/kahanov-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כחל - לא פעיל",
+                         "url":  "https://grape-man.com/יקב-כחל.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כינור דוד",
+                         "url":  "https://grape-man.com/יקב-כינור-דוד.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/kinor-david-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כישור",
+                         "url":  "https://grape-man.com/יקב-כישור.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/kishor-logo.631997ee923434a773dec06301755f80.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כמיסה",
+                         "url":  "https://grape-man.com/יקב-כמיסה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/kamisa-logo.93a1627396ee9d2ed22f55d571da2d53.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כנען",
+                         "url":  "https://grape-man.com/יקב-כנען.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כנף",
+                         "url":  "https://grape-man.com/יקב-כנף.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כנרתי",
+                         "url":  "https://grape-man.com/יקב-כנרתי.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כפיר",
+                         "url":  "https://grape-man.com/יקב-כפיר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/kfir-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כפירה",
+                         "url":  "https://grape-man.com/יקב-כפירה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/kfira-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כץ",
+                         "url":  "https://grape-man.com/יקב-כץ.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כרם ברק",
+                         "url":  "https://grape-man.com/יקב-כרם-ברק.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/kerem-barak-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כרם מוסקט",
+                         "url":  "https://grape-man.com/יקב-כרם-מוסקט.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כרם שבו",
+                         "url":  "https://grape-man.com/יקב-כרם-שבו.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/shvo-vineyards-logo.d62167df843db01f18a4803e0eea91b9.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כרם תשע",
+                         "url":  "https://grape-man.com/יקב-כרם-תשע.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/kerem-tesha-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כרמי אלול",
+                         "url":  "https://grape-man.com/יקב-כרמי-אלול.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/elul-vineyards-logo.6f7f587059cb5215cb64d68b11dff05a.jpg",
+                         "region":  "Unknown",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כרמי זיו",
+                         "url":  "https://grape-man.com/יקב-כרמי-זיו.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/carmey-ziv-logo.dd1cfe37369b4ec6655f9a62a9dfa418.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כרמי יוסף",
+                         "url":  "https://grape-man.com/יקב-כרמי-יוסף.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/karmei-yosef-bravdo-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כרמי עבדת",
+                         "url":  "https://grape-man.com/יקב-כרמי-עבדת.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כרמיזן",
+                         "url":  "https://grape-man.com/יקב-כרמיזן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/cremisan-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב כרמל",
+                         "url":  "https://grape-man.com/יקב-כרמל.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/carmel-logo-new2019.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב לבונה",
+                         "url":  "https://grape-man.com/יקב-לבונה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב לביא",
+                         "url":  "https://grape-man.com/יקב-לביא.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/lavie-logo-new-2023.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב לבני",
+                         "url":  "https://grape-man.com/יקב-לבני.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/livni-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב לברון",
+                         "url":  "https://grape-man.com/יקב-לברון.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב לה טרה פרומסה",
+                         "url":  "https://grape-man.com/יקב-לה-טרה-פרומסה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב להט",
+                         "url":  "https://grape-man.com/יקב-להט.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/lahat-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב לואיס פסקו",
+                         "url":  "https://grape-man.com/יקב-לואיס-פסקו.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/lewis-pasco-logo.631997ee923434a773dec06301755f80.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב לוטם",
+                         "url":  "https://grape-man.com/יקב-לוטם.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/lotem-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב לוינסון",
+                         "url":  "https://grape-man.com/יקב-לוינסון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/lewinsohn-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב לוריא",
+                         "url":  "https://grape-man.com/יקב-לוריא.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/lueria-logo.9c09f381cd02f0311c0bbcb7b63ea016.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב לטרון",
+                         "url":  "https://grape-man.com/יקב-לטרון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/latroun-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב לילי",
+                         "url":  "https://grape-man.com/יקב-לילי.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב לילך",
+                         "url":  "https://grape-man.com/יקב-לילך.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ליקרז - לא פעיל",
+                         "url":  "https://grape-man.com/יקב-ליקרז-לא-פעיל.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב לכיש",
+                         "url":  "https://grape-man.com/יקב-לכיש.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מאור",
+                         "url":  "https://grape-man.com/יקב-מאור.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/maor-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מאיה",
+                         "url":  "https://grape-man.com/יקב-מאיה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/maia-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מבצר עתלית",
+                         "url":  "https://grape-man.com/יקב-מבצר-עתלית.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/mivtzar-atlit-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מדבר",
+                         "url":  "https://grape-man.com/יקב-מדבר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/midbar-logo.be8ef06598e85b6a28a400042b5749e8.jpg",
+                         "region":  "Negev",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מודיעין",
+                         "url":  "https://grape-man.com/יקב-מודיעין.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/modiin-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מונד",
+                         "url":  "https://grape-man.com/יקב-מונד.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/mond-logo.7aa6a52e3bcf5767c59b945cff9df00c.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מונטיפיורי",
+                         "url":  "https://grape-man.com/יקב-מונטיפיורי.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/montefiore-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מוני",
+                         "url":  "https://grape-man.com/יקב-מוני.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/mony-logo-new2024.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מוניץ",
+                         "url":  "https://grape-man.com/יקב-מוניץ.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/munitz-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מורד",
+                         "url":  "https://grape-man.com/יקב-מורד.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/morad-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מוריה",
+                         "url":  "https://grape-man.com/יקב-מוריה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Unknown",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מחול היין",
+                         "url":  "https://grape-man.com/יקב-מחול-היין.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/machol-hayayin-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מטלר",
+                         "url":  "https://grape-man.com/יקב-מטלר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/mettler-logo-small.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מטר",
+                         "url":  "https://grape-man.com/יקב-מטר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/matar-logo.f7df16b1259ddbe41f50c655c38967fa.jpg",
+                         "region":  "Unknown",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מיה לוצ\u0027ה",
+                         "url":  "https://grape-man.com/יקב-מיה-לוצה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/mia-luce-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מיטב",
+                         "url":  "https://grape-man.com/יקב-מיטב.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מייסטר",
+                         "url":  "https://grape-man.com/יקב-מייסטר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/meister-logo-new2019.3646a7fd79c85d82cc98821153089ce4.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מילס",
+                         "url":  "https://grape-man.com/יקב-מילס.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/miles-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מילר",
+                         "url":  "https://grape-man.com/יקב-מילר.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מירון",
+                         "url":  "https://grape-man.com/יקב-מירון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/meron-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מישר",
+                         "url":  "https://grape-man.com/יקב-מישר.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מכבים",
+                         "url":  "https://grape-man.com/יקב-מכבים.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מסורת יהודית",
+                         "url":  "https://grape-man.com/יקב-מסורת-יהודית.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/jewish-tradition-winery-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מצודה",
+                         "url":  "https://grape-man.com/יקב-מצודה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/metzuda-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מצפה הימים",
+                         "url":  "https://grape-man.com/יקב-מצפה-הימים.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מרגלית",
+                         "url":  "https://grape-man.com/יקב-מרגלית.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/margalit-logo.dd1cfe37369b4ec6655f9a62a9dfa418.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מרום",
+                         "url":  "https://grape-man.com/יקב-מרום.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מרום אריאל היקב האקדמי",
+                         "url":  "https://grape-man.com/יקב-מרום-אריאל-היקב-האקדמי.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/merom-ariel-winery-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מרשה",
+                         "url":  "https://grape-man.com/יקב-מרשה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/maresha-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב מרתף יינות התבור",
+                         "url":  "https://grape-man.com/יקב-מרתף-יינות-התבור.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נאות סמדר",
+                         "url":  "https://grape-man.com/יקב-נאות-סמדר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/neot-smadar-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נבו",
+                         "url":  "https://grape-man.com/יקב-נבו.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/nevo-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נבות",
+                         "url":  "https://grape-man.com/יקב-נבות.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/navot-logo.76e7b829a53943ea62ca1cf06ea79066.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נגה",
+                         "url":  "https://grape-man.com/יקב-נגה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נגוהות",
+                         "url":  "https://grape-man.com/יקב-נגוהות.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/negohot-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נווה ירק",
+                         "url":  "https://grape-man.com/יקב-נווה-ירק.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/neve-yarak-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נח",
+                         "url":  "https://grape-man.com/יקב-נח.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נחום",
+                         "url":  "https://grape-man.com/יקב-נחום.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נחל דישון",
+                         "url":  "https://grape-man.com/יקב-נחל-דישון.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נחל חרמון",
+                         "url":  "https://grape-man.com/יקב-נחל-חרמון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/hermon-river-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נחל עמוד",
+                         "url":  "https://grape-man.com/יקב-נחל-עמוד.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/nahal-amud-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נחלה",
+                         "url":  "https://grape-man.com/יקב-נחלה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/nachala-winery-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נחמני",
+                         "url":  "https://grape-man.com/יקב-נחמני.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/nachmani-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נחשון",
+                         "url":  "https://grape-man.com/יקב-נחשון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/nachshon-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נטוף",
+                         "url":  "https://grape-man.com/יקב-נטוף.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/natuf-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נטופה",
+                         "url":  "https://grape-man.com/יקב-נטופה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/netofa-logo-new-may2017.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נטע",
+                         "url":  "https://grape-man.com/יקב-נטע.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/neta-logo.f585ef90f91cf97dd801af19379efb41.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נישקה",
+                         "url":  "https://grape-man.com/יקב-נישקה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/nishke-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ננה",
+                         "url":  "https://grape-man.com/יקב-ננה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/nana-logo-new-2018.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Negev",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נעמה במדבר - לא פעיל",
+                         "url":  "https://grape-man.com/יקב-נעמה-במדבר-לא-פעיל.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נעמן",
+                         "url":  "https://grape-man.com/יקב-נעמן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/naaman-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב נשאשיבי",
+                         "url":  "https://grape-man.com/יקב-נשאשיבי.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סביון",
+                         "url":  "https://grape-man.com/יקב-סביון.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סגל",
+                         "url":  "https://grape-man.com/יקב-סגל.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/segal-logo-new-2018.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סוד היין",
+                         "url":  "https://grape-man.com/יקב-סוד-היין.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סולטן",
+                         "url":  "https://grape-man.com/יקב-סולטן.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סומק",
+                         "url":  "https://grape-man.com/יקב-סומק.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/somek-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סוסון ים",
+                         "url":  "https://grape-man.com/יקב-סוסון-הים.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/sea-horse-logo.7aa6a52e3bcf5767c59b945cff9df00c.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סטף",
+                         "url":  "https://grape-man.com/יקב-סטף.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סימון",
+                         "url":  "https://grape-man.com/יקב-סימון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/simon-logo.8993acbc0ebed75ddf2738b69ec1e50a.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סיפסף",
+                         "url":  "https://grape-man.com/יקב-סיפסף.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סירה אדומה",
+                         "url":  "https://grape-man.com/יקב-סירה-אדומה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סלומון",
+                         "url":  "https://grape-man.com/יקב-סלומון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/salomon-logo.5a12f4505c32c8a7683d58fea64d9eb8.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סלוקיה",
+                         "url":  "https://grape-man.com/יקב-סלוקיה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/salokiya-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סמדר",
+                         "url":  "https://grape-man.com/יקב-סמדר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/smadar-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סנה",
+                         "url":  "https://grape-man.com/יקב-סנה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/sene-logo.73cc21b082426cab62e3d6daea2adba1.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ססלוב",
+                         "url":  "https://grape-man.com/יקב-ססלוב.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/saslove-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ספרה",
+                         "url":  "https://grape-man.com/יקב-ספרה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/sphera-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סקוריה",
+                         "url":  "https://grape-man.com/יקב-סקוריה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/scoria-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב סריג",
+                         "url":  "https://grape-man.com/יקב-סריג.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/sarig-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב עבייה",
+                         "url":  "https://grape-man.com/יקב-עבייה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/abaya-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב עגור",
+                         "url":  "https://grape-man.com/יקב-עגור.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/agur-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב עדן",
+                         "url":  "https://grape-man.com/יקב-עדן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/eden-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב עין נשוט",
+                         "url":  "https://grape-man.com/יקב-עין-נשוט.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ein-nashut-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב עין תאנה",
+                         "url":  "https://grape-man.com/יקב-עין-תאנה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ein-teina-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב עלמה",
+                         "url":  "https://grape-man.com/יקב-עלמה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב עמונה",
+                         "url":  "https://grape-man.com/יקב-עמונה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב עמיעד",
+                         "url":  "https://grape-man.com/יקב-עמיעד.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב עמק האלה",
+                         "url":  "https://grape-man.com/יקב-עמק-האלה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ella-valley-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב עמק יזרעאל",
+                         "url":  "https://grape-man.com/יקב-עמק-יזרעאל.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/jezreel-valley-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב עמרם",
+                         "url":  "https://grape-man.com/יקב-עמרם.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/amram-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ענבא",
+                         "url":  "https://grape-man.com/יקב-ענבא.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ענתות",
+                         "url":  "https://grape-man.com/יקב-ענתות.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב פאוקר",
+                         "url":  "https://grape-man.com/יקב-פאוקר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/pauker-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב פדר",
+                         "url":  "https://grape-man.com/יקב-פדר.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב פויזנר",
+                         "url":  "https://grape-man.com/יקב-פויזנר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/poizner-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב פלדשטיין",
+                         "url":  "https://grape-man.com/יקב-פלדשטיין.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/feldstein-logo-1.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב פלטר",
+                         "url":  "https://grape-man.com/יקב-פלטר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/pelter-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב פלם",
+                         "url":  "https://grape-man.com/יקב-פלם.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/flam-logo-new-2023.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב פסגות",
+                         "url":  "https://grape-man.com/יקב-פסגות.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/psagot-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב פעמון",
+                         "url":  "https://grape-man.com/יקב-פעמון.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב פרידמן",
+                         "url":  "https://grape-man.com/יקב-פרידמן.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב פרנסי",
+                         "url":  "https://grape-man.com/יקב-פרנסי.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ferency-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב פתורה",
+                         "url":  "https://grape-man.com/יקב-פתורה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ptora-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב צ\u0027ילאג",
+                         "url":  "https://grape-man.com/יקב-צילאג.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/chillag-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב צובה",
+                         "url":  "https://grape-man.com/יקב-צובה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tzuba-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב צוובנר",
+                         "url":  "https://grape-man.com/יקב-צוובנר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/zwebner-winery-logo.73db6fdea898dff0d565b07035acf09a.jpg",
+                         "region":  "Unknown",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב צוף",
+                         "url":  "https://grape-man.com/יקב-צוף.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tzoof-winery-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ציון",
+                         "url":  "https://grape-man.com/יקב-ציון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/zion-logo-new2024.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב צימבליסטה",
+                         "url":  "https://grape-man.com/יקב-צימבליסטה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/zimbalista-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב צפרירים",
+                         "url":  "https://grape-man.com/יקב-צפרירים.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/zafririm-logo-new-2016.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב צפת",
+                         "url":  "https://grape-man.com/יקב-צפת.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/safed-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב צרעה",
+                         "url":  "https://grape-man.com/יקב-צרעה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tzora-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב קדיתא",
+                         "url":  "https://grape-man.com/יקב-קדיתא.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/kadita-logo.784fbbceb1b50afd034ee9e837d22de0.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב קדמא",
+                         "url":  "https://grape-man.com/יקב-קדמא.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/kadma-logo-big.631997ee923434a773dec06301755f80.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב קדש ברנע",
+                         "url":  "https://grape-man.com/יקב-קדש-ברנע.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/kadesh-barnea-logo.18b8756b356b29ad93dcf48df153cd38.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב קורן",
+                         "url":  "https://grape-man.com/יקב-קורן.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב קטלב",
+                         "url":  "https://grape-man.com/יקב-קטלב.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/katlav-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב קטמון",
+                         "url":  "https://grape-man.com/יקב-קטמון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/katamon-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב קיטרון",
+                         "url":  "https://grape-man.com/יקב-קיטרון.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב קלו דה גת",
+                         "url":  "https://grape-man.com/יקב-קלו-דה-גת.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/clos-de-gat-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב קליינס",
+                         "url":  "https://grape-man.com/יקב-קליינס.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב קלע דוד",
+                         "url":  "https://grape-man.com/יקב-קלע-דוד.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב קנאטיר",
+                         "url":  "https://grape-man.com/יקב-קנאטיר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/kanatir-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב קנתרוס",
+                         "url":  "https://grape-man.com/יקב-קנתרוס.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב קסטל",
+                         "url":  "https://grape-man.com/יקב-קסטל.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/domaine-du-castel.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ראובן",
+                         "url":  "https://grape-man.com/יקב-ראובן.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ראש פינה",
+                         "url":  "https://grape-man.com/יקב-ראש-פינה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רד פואטרי",
+                         "url":  "https://grape-man.com/יקב-רד-פואטרי.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/red-poetry-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רוגלית",
+                         "url":  "https://grape-man.com/יקב-רוגלית.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/roglit-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רוזנבאום",
+                         "url":  "https://grape-man.com/יקב-רוזנבאום.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רוטה",
+                         "url":  "https://grape-man.com/יקב-רוטה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/rota-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Negev",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רון",
+                         "url":  "https://grape-man.com/יקב-רון.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רוקד",
+                         "url":  "https://grape-man.com/יקב-רוקד.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רות",
+                         "url":  "https://grape-man.com/יקב-רות.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ruth-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רזיאל",
+                         "url":  "https://grape-man.com/יקב-רזיאל.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/raziel-logo.6a3740cc87059aa2c8f5fea7cdb28e6b.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רימון",
+                         "url":  "https://grape-man.com/יקב-רימון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/rimon-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רם",
+                         "url":  "https://grape-man.com/יקב-רם.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ram-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רמאן",
+                         "url":  "https://grape-man.com/יקב-רמאן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/raman-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רמות נפתלי",
+                         "url":  "https://grape-man.com/יקב-רמות-נפתלי.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ramot-naftaly-logo.7671da0b415021afcf0e00d841d5f181.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רמת הגולן",
+                         "url":  "https://grape-man.com/יקב-רמת-הגולן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/golan-heights-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רמת חברון",
+                         "url":  "https://grape-man.com/יקב-רמת-חברון.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רמת נגב",
+                         "url":  "https://grape-man.com/יקב-רמת-נגב.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/ramat-negev-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Negev",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רענן",
+                         "url":  "https://grape-man.com/יקב-רענן.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב רקנאטי",
+                         "url":  "https://grape-man.com/יקב-רקנאטי.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/recanati-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שאטו גולן",
+                         "url":  "https://grape-man.com/יקב-שאטו-גולן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/chateau-golan-logo.c648f2c8cb116ba8558d036e82ae8ecb.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שאטו דה גליליי",
+                         "url":  "https://grape-man.com/יקב-שאטו-דה-גליליי.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שאטו רמו",
+                         "url":  "https://grape-man.com/יקב-שאטו-רמו.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/chateau-remo-logo-black.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שגיא",
+                         "url":  "https://grape-man.com/יקב-שגיא.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שדה בוקר",
+                         "url":  "https://grape-man.com/יקב-שדה-בוקר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/sde-boker-logo.6a3740cc87059aa2c8f5fea7cdb28e6b.jpg",
+                         "region":  "Negev",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שדות",
+                         "url":  "https://grape-man.com/יקב-שדות.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/sadot-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שדמה",
+                         "url":  "https://grape-man.com/יקב-שדמה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שורק",
+                         "url":  "https://grape-man.com/יקב-שורק.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/soreq-logo-new2017.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שושנה",
+                         "url":  "https://grape-man.com/יקב-שושנה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/shoshana-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שחורת",
+                         "url":  "https://grape-man.com/יקב-שחורת.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Negev",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שטרן",
+                         "url":  "https://grape-man.com/יקב-שטרן.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/stern-logo.be8ef06598e85b6a28a400042b5749e8.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שילה",
+                         "url":  "https://grape-man.com/יקב-שילה.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/shiloh-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שירן",
+                         "url":  "https://grape-man.com/יקב-שירן.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שלוש גפנים",
+                         "url":  "https://grape-man.com/יקב-שלוש-גפנים.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/three-vines-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שניר",
+                         "url":  "https://grape-man.com/יקב-שניר.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שפיה",
+                         "url":  "https://grape-man.com/יקב-שפיה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שקאר",
+                         "url":  "https://grape-man.com/יקב-שקאר.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שריג",
+                         "url":  "https://grape-man.com/יקב-שריג.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שריגים",
+                         "url":  "https://grape-man.com/יקב-שריגים.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/srigim-logo-new-oct2019.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב שריה",
+                         "url":  "https://grape-man.com/יקב-שריה.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judean Hills",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב ששי",
+                         "url":  "https://grape-man.com/יקב-ששי.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב תבור",
+                         "url":  "https://grape-man.com/יקב-תבור.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tabor-logo-new2019.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Unknown",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב תדהר",
+                         "url":  "https://grape-man.com/יקב-תדהר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tidhar-winery-logo.2dd6384ff4580653f2093db807f5f9b4.jpg",
+                         "region":  "Galilee",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב תום",
+                         "url":  "https://grape-man.com/יקב-תום.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tom-winery-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב תל",
+                         "url":  "https://grape-man.com/יקב-תל.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tel-winery-logo.7aa6a52e3bcf5767c59b945cff9df00c.jpg",
+                         "region":  "Unknown",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב תל אפק",
+                         "url":  "https://grape-man.com/יקב-תל-אפק.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tel-afek-logo.3f40f0996a9b116a82a5c15ea2fc229e.jpg",
+                         "region":  "Carmel",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב תל ארם",
+                         "url":  "https://grape-man.com/יקב-תל-ארם.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב תל שיפון",
+                         "url":  "https://grape-man.com/יקב-תל-שיפון.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tel-shifon-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Golan Heights",
+                         "kosher":  false,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב תלם",
+                         "url":  "https://grape-man.com/יקב-תלם.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/telem-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב תמיר",
+                         "url":  "https://grape-man.com/יקב-תמיר.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tamir-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judean Hills",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב תניא",
+                         "url":  "https://grape-man.com/יקב-תניא.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tanya-logo.31352292118965b5826f6839e5ce3b1d.jpg",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב תקוע",
+                         "url":  "https://grape-man.com/יקב-תקוע.html",
+                         "logo":  "https://grape-man.com/assets/templates/grapeman/images/logo-upper-menu.png",
+                         "region":  "Judea \u0026 Samaria",
+                         "kosher":  true,
+                         "active":  true
+                     },
+                     {
+                         "name":  "יקב תשבי",
+                         "url":  "https://grape-man.com/יקב-תשבי.html",
+                         "logo":  "https://grape-man.com/assets/components/phpthumbof/cache/tishbi-logo.7809cb3b177b1c7f516b2dcd06ca865d.jpg",
+                         "region":  "Carmel",
+                         "kosher":  true,
+                         "active":  true
+                     }
+                 ]
+}
